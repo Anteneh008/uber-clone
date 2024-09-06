@@ -44,7 +44,7 @@ const Onboarding = () => {
                 {item.title}
               </Text>
             </View>
-            <Text className="text-base font-JakartaSemiBold text-center text-[#858585] mx-10 mt-3">
+            <Text className="text-base font-JakartaSemiBold text-center text-[#858585] mx-5 mt-3">
               {item.description}
             </Text>
           </View>
